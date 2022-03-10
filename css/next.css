@@ -252,6 +252,3 @@ span.with-love {
 .homepage-fg a:hover{
     transform: scale(1.2);
 }
-body::-webkit-scrollbar{
-    width: 0;
-}
