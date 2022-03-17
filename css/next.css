@@ -252,3 +252,7 @@ span.with-love {
 .homepage-fg a:hover{
     transform: scale(1.2);
 }
+
+pre > code {
+    overflow: auto;
+}
